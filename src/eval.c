@@ -125,7 +125,7 @@ RESET {
 
 
 /*
- * The eval commmand.
+ * The eval command.
  */
 
 static int evalcmd(int argc, char **argv, int flags)
