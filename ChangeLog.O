@@ -735,7 +735,7 @@ ash (0.3.5-10) frozen unstable; urgency=low
 
 ash (0.3.5-9) unstable; urgency=low
 
-  * Double quotes inside paramater substitutions inside double quotes are now
+  * Double quotes inside parameter substitutions inside double quotes are now
     ignored as in bash (the original behaviour was POSIX compliant too but
     IMHO this one makes a little bit more sense).
     This one broke mwm (but it was actually mwm's fault).
