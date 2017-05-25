@@ -799,7 +799,7 @@ ash (0.3.5-1) unstable; urgency=low
 
   * New upstream release.
   * Adapted to new pmake (fixes #38737).
-  * Fixed behvaiour of backslashes preceding a closing brace for a parameter
+  * Fixed behaviour of backslashes preceding a closing brace for a parameter
     substituion inside double quotes (even bash messes this one up :).
   * Fixed command (fixes #34639).
   * Fixed a pipe bug where stdin may be wrongly closed (fixes #35452).

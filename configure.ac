@@ -91,7 +91,7 @@ AC_CHECK_FUNCS(bsearch faccessat getpwnam getrlimit isalpha killpg \
 	       strtoumax sysconf)
 
 dnl Check whether it's worth working around FreeBSD PR kern/125009.
-dnl The traditional behavior of access/faccessat is crazy, but
+dnl The traditional behaviour of access/faccessat is crazy, but
 dnl POSIX.1-2008 explicitly allows those functions to misbehave.
 dnl
 dnl Unaffected kernels:
