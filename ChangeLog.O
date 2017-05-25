@@ -169,7 +169,7 @@ dash (0.4.9) unstable; urgency=low
 dash (0.4.8) unstable; urgency=low
 
   * Removed backgnd flag from ncmd due to previous redirection change.
-  * Set lim after the stack stablises in updatepwd (closes: #173884).
+  * Set lim after the stack stabilizes in updatepwd (closes: #173884).
   * Do not clobber the exitstatus after redirection.
 
  -- Herbert Xu <herbert@debian.org>  Mon, 23 Dec 2002 19:50:06 +1100
