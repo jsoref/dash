@@ -387,7 +387,7 @@ RESET {
 
 /*
  * Move a file descriptor to > 10.  Invokes sh_error on error unless
- * the original file dscriptor is not open.
+ * the original file descriptor is not open.
  */
 
 int
