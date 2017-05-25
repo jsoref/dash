@@ -953,7 +953,7 @@ ash (0.3.1-11) unstable; urgency=low
 ash (0.3.1-10) unstable; urgency=low
 
   * echo now handles options correctly.
-  * echo nolonger returns 0 if erorrs occured while writing to stdout.
+  * echo nolonger returns 0 if errors occured while writing to stdout.
   * New code from GNU echo merged.
   * Error messages from test now work.
 
