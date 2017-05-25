@@ -809,7 +809,7 @@ ash (0.3.5-1) unstable; urgency=low
 
 ash (0.3.4-7) unstable; urgency=low
 
-  * Fixed a glibc 2.1 compatitibility problem.
+  * Fixed a glibc 2.1 compatibility problem.
   * Fixed a PWD inconsistency that stuffed up the kernel compilation.
 
  -- Herbert Xu <herbert@debian.org>  Mon, 17 May 1999 23:14:57 +1000
