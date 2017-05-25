@@ -585,7 +585,7 @@ ash (0.3.7-16) unstable; urgency=low
 
 ash (0.3.7-15) unstable; urgency=low
 
-  * Unknown escape codes are now prnted literally by echo (closes: #82869).
+  * Unknown escape codes are now printed literally by echo (closes: #82869).
   * Made hetio_read_input() fail if fd is not stdin.
   * Some uses of VSQUOTE were really meant to be quotes (closes: #88777).
   * Build different ashes in different subdirectories.
