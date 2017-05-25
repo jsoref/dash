@@ -33,7 +33,7 @@
  */
 
 /*
- * Miscelaneous builtins.
+ * Miscellaneous builtins.
  */
 
 #include <sys/types.h>		/* quad_t */
