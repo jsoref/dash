@@ -467,7 +467,7 @@ ash (0.3.8-14) unstable; urgency=low
 
   * Divert sh.1.gz to sh.distrib.1.gz (closes: #102251).
   * Added HETIO support for ^D and ^U (Aaron Lehmann, closes: #102215).
-  * Added Spaniash translation of debconf templates (Carlos Valdivia Yagüe,
+  * Added Spanish translation of debconf templates (Carlos Valdivia Yagüe,
     closes: #103040).
   * Added versioned build-time dependency on groff.
 
