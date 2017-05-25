@@ -61,7 +61,7 @@
 
 
 /*
- * A text structure is basicly just a string that grows as more characters
+ * A text structure is basically just a string that grows as more characters
  * are added onto the end of it.  It is implemented as a linked list of
  * blocks of characters.  The routines addstr and addchar append a string
  * or a single character, respectively, to a text structure.  Writetext
