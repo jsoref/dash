@@ -137,7 +137,7 @@ dash (0.4.11) unstable; urgency=low
   * Fixed build problem with bison.
   * Merged changes from NetBSD 20030123.
    . printf:
-    - Fixed mklong sefault.
+    - Fixed mklong segfault.
     - Fixed precision/field width with %b.
    . Improved option parsing of command(1).
    . Added rudimentary support for PS4.
