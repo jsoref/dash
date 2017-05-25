@@ -512,7 +512,7 @@
 
 2007-10-08  Herbert Xu <herbert@gondor.apana.org.au>
 
-	* Report substition errors at expansion time.
+	* Report substitution errors at expansion time.
 
 2007-10-06  Herbert Xu <herbert@gondor.apana.org.au>
 
